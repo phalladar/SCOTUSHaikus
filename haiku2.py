@@ -53,4 +53,4 @@ theText = f.read()
 
 x = findAllHaikus(theText)
 for i in x:
-	print i
+	print i 

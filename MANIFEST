@@ -1,0 +1,11 @@
+README.txt
+setup.py
+haikufinder/__init__.py
+haikufinder/cmudict/PickleCMUDict.py
+haikufinder/cmudict/cmudict.pickle
+haikufinder/cmudict/custom.dict
+haikufinder/data/awkward_breaks
+haikufinder/data/awkward_starts
+haikufinder/data/awkward_ends
+scripts/findhaikus
+license.txt
